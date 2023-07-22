@@ -1,0 +1,30 @@
+
+body{
+    background-image:url(bg.png);
+}
+    
+h1{
+    color: black;
+    background-color: rgb(192, 7, 17);
+    margin: 20px;
+    padding:20px;
+    text-align:center;
+}
+h3{
+    color: red;
+    text-align: center;
+}
+img.pics{
+    width:310px;
+    padding:20px;
+    margin:20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 15px rgb(90, 30, 72) solid;
+    
+}
+p{
+    color: darkred;
+    background-color: rgb(115, 115, 202);
+    text-align: justify;
+}
